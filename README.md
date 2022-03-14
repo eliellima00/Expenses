@@ -25,3 +25,6 @@ Inside child element we need to pass the datas with we want to inside the functi
   The patthern is responsible to up data from one  brother element to another. normally, dont's possible to transfer datas using
  this way. For make this, first we need to use the buttom up patthern, to up the data to the parent element,
  thereafter, we can pass the datas to another child element, wich have the same parent 
+ 
+## Mapping Communication
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/90096605/158185261-664f18e9-2830-4786-bf28-d1785ece4a40.png)
