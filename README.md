@@ -8,12 +8,12 @@ Actually, I'm learning about quite contents. As a entry level programmer I Need 
 ## About Project
 
 With this project it's possible to add a new Expense, with the title, amount and date.
-Also it's possible to filter by month and see the graphic with dinamical bars, which show all month's by year and show in wich month's have more expenses.
+Also it's possible to filter by month and see the graphic with dinamical bars, which show all month's by year and show  wich month's have more expenses.
 
 ## Content Learned
-This project make part of an course totally in english, which don't is my native language, so I learn a little bit more of english.
+This project makes part of an course totally in english, which isn't my native language, so I've learned a little more of english.
 
-In relation to the project contents, I aplly some kinda of topics, and I learned how pass props between elements, how to pass props by parent element to child element or vice versa
+In relation to the project contents, I apply some kinda of topics, and I've learned how to pass props between elements, how to pass props by parent element to child element or vice versa
 Right below I said a bit more about.
 
 ## CHILD TO PARENT COMPONENT (buttom up)
